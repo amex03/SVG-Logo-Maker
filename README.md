@@ -14,7 +14,8 @@ To create this application, I used the following tutorials:
     - Color Names List: https://gist.github.com/slikts/cfa5bb0ad340b6e01dd711f20a419aec       
     - Regular Expressions: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions                                              
 ## Usage
-[Untitled_ Oct 12, 2023 10_08 PM.webm](https://github.com/amex03/SVG-Logo-Maker/assets/136132397/4833ca76-d31f-4b7f-af44-a887822aade9)
+
+[Untitled_ Oct 18, 2023 7_00 PM (1).webm](https://github.com/amex03/SVG-Logo-Maker/assets/136132397/e6eaf9b5-7de7-465c-aa56-cdefe88c947c)
 
 
 
